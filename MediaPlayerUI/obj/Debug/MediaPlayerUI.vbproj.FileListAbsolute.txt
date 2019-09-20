@@ -1,0 +1,25 @@
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.Cache
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.Cache
